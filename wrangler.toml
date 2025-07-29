@@ -1,4 +1,4 @@
-name = 'v2rayhub'
+name = 'v20198557e67d37069bb'
 main = "_worker.js"
 compatibility_date = "2025-07-23"
 keep_vars = true
